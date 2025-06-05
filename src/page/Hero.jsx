@@ -29,13 +29,10 @@ function Hero() {
             </h1>
             <div className="max-w-4xl">
               <p className="mt-5 text-neutral-400 text-lg md:text-xl leading-relaxed">
-                A skilled full-stack developer with expertise in front-end
-                technologies like React.js, Redux, HTML, CSS, and Tailwind CSS.
-                I specialize in building scalable and responsive web
-                applications, leveraging back-end development with Node.js,
-                Express.js, and RESTful APIs. Experienced in deploying apps on
-                Netlify, Vercel, and Render, with proficiency in MongoDB and Git
-                for version control.
+                 A Skilled Front-End Developer with expertise in technologies like React.js, HTML, CSS, JavaScript, Bootstrap,
+ and Tailwind CSS. Experienced in deploying responsive and dynamic web applications on platforms such as
+ Netlify, Vercel, and Render. Proficient in using Git for version control, enabling smooth collaboration and
+ efficient project management.
               </p>
             </div>
           </div>
