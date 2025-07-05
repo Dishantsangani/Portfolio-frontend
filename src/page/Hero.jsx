@@ -29,10 +29,7 @@ function Hero() {
             </h1>
             <div className="max-w-4xl">
               <p className="mt-5 text-neutral-400 text-lg md:text-xl leading-relaxed">
-                 A Skilled Front-End Developer with expertise in technologies like React.js, HTML, CSS, JavaScript, Bootstrap,
- and Tailwind CSS. Experienced in deploying responsive and dynamic web applications on platforms such as
- Netlify, Vercel, and Render. Proficient in using Git for version control, enabling smooth collaboration and
- efficient project management.
+           I'm a passionate Full Stack Developer with hands-on experience in building dynamic, scalable, and user-friendly web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in crafting intuitive frontends, building secure and efficient backend APIs, and deploying full-stack solutions with real-world impact. From responsive UI design to database modeling and authentication flows, I take pride in delivering high-quality code and seamless user experiences. Always eager to learn and grow, I enjoy turning complex problems into clean, functional products.
               </p>
             </div>
           </div>
